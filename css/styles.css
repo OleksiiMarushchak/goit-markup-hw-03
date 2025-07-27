@@ -269,11 +269,10 @@ img {
 }
 
 /* === SECTION: PORTFOLIO === */
-.portfolio-container {
+.section-portfolio {
     padding-top: 120px;
     padding-bottom: 120px;
 }
-
 .portfolio-title {
     font-weight: 700;
     font-size: 36px;
@@ -338,6 +337,7 @@ img {
     text-transform: uppercase;
     color: #4d5ae5;
     margin-bottom: 16px;
+    display: inline-block;
 }
 
 .footer-logo .logo-part {
